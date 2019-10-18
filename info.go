@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/containers/buildah/pkg/cgroups"
-	"github.com/containers/buildah/pkg/unshare"
+	"github.com/containers/common/pkg/unshare"
 	"github.com/containers/buildah/util"
 	"github.com/containers/storage"
 	"github.com/containers/storage/pkg/system"
